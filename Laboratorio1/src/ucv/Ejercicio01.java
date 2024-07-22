@@ -93,7 +93,7 @@ public class Ejercicio01 extends JFrame {
 				float multiplicacion = value1 * value2;
 				float division = value1 / value2;
 
-				txtSuma.setText(suma + "");
+				txtSuma.setText(suma + "NEGRO");
 				txtResta.setText(resta + "");
 				txtMultiplicacion.setText(multiplicacion + "");
 				txtDivision.setText(division + "");

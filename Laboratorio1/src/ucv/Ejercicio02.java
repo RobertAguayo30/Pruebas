@@ -55,9 +55,9 @@ public class Ejercicio02 extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 
-		addLabel("Informe de laboratorio (30%)", 30);
-		addLabel("Investigación Formativa (40%)", 80);
-		addLabel("Examen Parcial (30%)", 130);
+		addLabel("Informe de laboratorio (Vale un 30%)", 30);
+		addLabel("Investigación Formativa (Vale un 40%)", 80);
+		addLabel("Examen Parcial (Vale un 30%)", 130);
 
 		contentPane.add(lab);
 		contentPane.add(inc);
